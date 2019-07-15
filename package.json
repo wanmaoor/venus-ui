@@ -16,7 +16,7 @@
   "repository": "git+https://github.com/wanmaoor/venus-ui.git",
   "keywords": [],
   "author": "wanmaoor <wanmao1284879375@outlook.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wanmaoor/venus-ui/issues"
   },
