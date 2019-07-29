@@ -1,6 +1,5 @@
 # VenusUI
 
-[![CircleCI](https://circleci.com/gh/FrankFang/frank-test-5.svg?style=svg)](https://circleci.com/gh/FrankFang/frank-test-5)
+[![CircleCI](https://circleci.com/gh/wanmaoor/venus-ui.svg?style=svg)](https://circleci.com/gh/wanmaoor/venus-ui)
 
-
-[![npm version](https://badge.fury.io/js/fui888.svg)](https://badge.fury.io/js/fui888)
+[![npm version](https://badge.fury.io/js/venusui12345.svg)](https://badge.fury.io/js/venusui12345)
