@@ -1,3 +1,3 @@
 #!/bin/env bash
 npm version $1 && \
-     git push origin master:deployg
+     git push origin master:deploy
